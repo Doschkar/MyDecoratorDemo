@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyDecoratorDemo/1.0.0": {
+        "runtime": {
+          "MyDecoratorDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyDecoratorDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

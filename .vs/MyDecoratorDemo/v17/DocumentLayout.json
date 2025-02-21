@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|c:\\lukas\\htl5.klasse\\pos\\mydecoratordemo\\mydecoratordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|solutionrelative:mydecoratordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|c:\\lukas\\htl5.klasse\\pos\\mydecoratordemo\\mydecoratordemo\\colordecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|solutionrelative:mydecoratordemo\\colordecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|c:\\lukas\\htl5.klasse\\pos\\mydecoratordemo\\mydecoratordemo\\maskdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|solutionrelative:mydecoratordemo\\maskdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|c:\\lukas\\htl5.klasse\\pos\\mydecoratordemo\\mydecoratordemo\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|solutionrelative:mydecoratordemo\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|c:\\lukas\\htl5.klasse\\pos\\mydecoratordemo\\mydecoratordemo\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|solutionrelative:mydecoratordemo\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|c:\\lukas\\htl5.klasse\\pos\\mydecoratordemo\\mydecoratordemo\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|solutionrelative:mydecoratordemo\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|c:\\lukas\\htl5.klasse\\pos\\mydecoratordemo\\mydecoratordemo\\simplecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283019-34EF-49C6-B05B-A8CAC8FBC2B8}|MyDecoratorDemo\\MyDecoratorDemo.csproj|solutionrelative:mydecoratordemo\\simplecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorDecorator.cs",
+              "DocumentMoniker": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\ColorDecorator.cs",
+              "RelativeDocumentMoniker": "MyDecoratorDemo\\ColorDecorator.cs",
+              "ToolTip": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\ColorDecorator.cs",
+              "RelativeToolTip": "MyDecoratorDemo\\ColorDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:49:17.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaskDecorator.cs",
+              "DocumentMoniker": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\MaskDecorator.cs",
+              "RelativeDocumentMoniker": "MyDecoratorDemo\\MaskDecorator.cs",
+              "ToolTip": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\MaskDecorator.cs",
+              "RelativeToolTip": "MyDecoratorDemo\\MaskDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:40:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\Decorator.cs",
+              "RelativeDocumentMoniker": "MyDecoratorDemo\\Decorator.cs",
+              "ToolTip": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\Decorator.cs",
+              "RelativeToolTip": "MyDecoratorDemo\\Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:38:35.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteComponent.cs",
+              "DocumentMoniker": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\ConcreteComponent.cs",
+              "RelativeDocumentMoniker": "MyDecoratorDemo\\ConcreteComponent.cs",
+              "ToolTip": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\ConcreteComponent.cs",
+              "RelativeToolTip": "MyDecoratorDemo\\ConcreteComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:36:09.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\Component.cs",
+              "RelativeDocumentMoniker": "MyDecoratorDemo\\Component.cs",
+              "ToolTip": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\Component.cs",
+              "RelativeToolTip": "MyDecoratorDemo\\Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:34:36.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleComponent.cs",
+              "DocumentMoniker": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\SimpleComponent.cs",
+              "RelativeDocumentMoniker": "MyDecoratorDemo\\SimpleComponent.cs",
+              "ToolTip": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\SimpleComponent.cs",
+              "RelativeToolTip": "MyDecoratorDemo\\SimpleComponent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:24:07.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MyDecoratorDemo\\Program.cs",
+              "ToolTip": "C:\\Lukas\\HTL5.Klasse\\POS\\MyDecoratorDemo\\MyDecoratorDemo\\Program.cs",
+              "RelativeToolTip": "MyDecoratorDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:23:46.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

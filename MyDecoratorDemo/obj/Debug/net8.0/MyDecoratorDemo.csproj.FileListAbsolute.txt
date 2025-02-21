@@ -1,0 +1,14 @@
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\MyDecoratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\MyDecoratorDemo.AssemblyInfoInputs.cache
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\MyDecoratorDemo.AssemblyInfo.cs
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\MyDecoratorDemo.csproj.CoreCompileInputs.cache
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\bin\Debug\net8.0\MyDecoratorDemo.exe
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\bin\Debug\net8.0\MyDecoratorDemo.deps.json
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\bin\Debug\net8.0\MyDecoratorDemo.runtimeconfig.json
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\bin\Debug\net8.0\MyDecoratorDemo.dll
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\bin\Debug\net8.0\MyDecoratorDemo.pdb
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\MyDecoratorDemo.dll
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\refint\MyDecoratorDemo.dll
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\MyDecoratorDemo.pdb
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\MyDecoratorDemo.genruntimeconfig.cache
+C:\Lukas\HTL5.Klasse\POS\MyDecoratorDemo\MyDecoratorDemo\obj\Debug\net8.0\ref\MyDecoratorDemo.dll
